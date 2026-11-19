@@ -19,8 +19,8 @@ DAFTAR_MODEL = {
 M2_PER_SQFT = 0.09290304
 
 # Silakan ganti identitas.
-NAMA = "Nama"
-NIM = "NIM"
+NAMA = "Bobby Giordano"
+NIM = "240712851"
 
 
 def format_rupiah(nilai: float) -> str:
